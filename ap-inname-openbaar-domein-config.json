@@ -1,11 +1,12 @@
 {
   "naam": "Applicatieprofiel Inname openbaar domein",
+  "rapport" : "",
   "verantwoordelijke_organisatie": "Agentschap Informatie Vlaanderen",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO002949",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "ap-inname-openbaar-domein.md",
+  "beschrijving" : "ap-inname-openbaar-domein.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Inname openbaar domein",
